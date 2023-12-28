@@ -15,6 +15,15 @@ tr:nth-child(even) {
   background-color: #676262;
 }
 
+#bg-image {
+  background-image: url("https://mir-s3-cdn-cf.behance.net/project_modules/1400/02d4d967324337.5b429b698b461.png");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+}
+
 img {
   width: 150px;
   height: 150px;
